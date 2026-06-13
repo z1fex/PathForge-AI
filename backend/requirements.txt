@@ -1,0 +1,9 @@
+# CareerPath backend — shared deps (Agent 1 seeds; Agents 2/3/4 append below)
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+google-generativeai          # available to teammates; Agent 1's roadmap.py calls Gemini via REST (httpx) for Py3.14 robustness
+httpx
+requests                     # Agent 3 (learning.py): Tavily REST + optional Gemini cleanup — no new deps needed
+pytest
