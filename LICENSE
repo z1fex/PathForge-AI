@@ -1,0 +1,45 @@
+PathForge AI — Proprietary Software License
+Copyright (c) 2026 Rudranil Chatterjee and Manika Gogoi. All rights reserved.
+
+This software, its source code, design, prompts, documentation, and all associated
+materials in this repository (collectively, the "Software") were created for
+VibeThon 2026 and are the exclusive intellectual property of the copyright holders
+named above (the "Authors").
+
+1. PERMITTED USE
+   You are granted a limited, non-transferable, revocable permission ONLY to:
+   (a) view and read the source code in this repository for the sole purposes of
+       evaluation, review, grading, and academic assessment.
+
+2. PROHIBITED WITHOUT PRIOR WRITTEN PERMISSION
+   Except as expressly permitted in Section 1, you may NOT, in whole or in part:
+   (a) copy, reproduce, download for reuse, or store the Software;
+   (b) modify, adapt, translate, or create derivative works of the Software;
+   (c) distribute, publish, sublicense, sell, rent, lease, or otherwise transfer
+       the Software;
+   (d) use the Software, or any concept, code, prompt, or component within it, in
+       any other product, service, project, or work, whether commercial or
+       non-commercial;
+   (e) reverse engineer, decompile, or disassemble any compiled portion;
+   (f) remove or alter any copyright, attribution, or proprietary notice.
+
+3. NO IMPLIED RIGHTS
+   No license or right is granted by implication, estoppel, or otherwise. All
+   rights not expressly granted herein are reserved by the Authors.
+
+4. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+5. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+   OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+   OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. TERMINATION
+   Any breach of this license immediately and automatically terminates the
+   permission granted in Section 1.
+
+For licensing or permission requests, contact the Authors via the project repository.

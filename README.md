@@ -121,4 +121,11 @@ Built at **VibeThon 2026**.
 - Backend, integration & deployment
 - Frontend (built with Lovable)
 
+---
+
+## 📄 License
+
+**Proprietary — All Rights Reserved.** See [LICENSE](LICENSE).
+This project may be **viewed for evaluation/judging only**. No copying, modification, distribution, or use of any part (code, prompts, or design) is permitted without the Authors' prior written permission.
+
 *Made with way too much coffee. ☕*
