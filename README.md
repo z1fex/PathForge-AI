@@ -118,8 +118,8 @@ Companies-hiring uses **Remotive** and **Arbeitnow**, which need **no key**.
 ## 👥 Team
 
 Built at **VibeThon 2026**.
-- Backend, integration & deployment
-- Frontend (built with Lovable)
+- **Backend, Integration & Deployment** — Rudranil Chatterjee
+- **Frontend, Design & Interactivity Testing** — Manika Agrawal Gogoi
 
 ---
 
